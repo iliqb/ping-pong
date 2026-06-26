@@ -20,13 +20,6 @@ This project was created to practice JavaScript game logic, keyboard controls, a
 
 ## 📸 Preview
 
-_Add screenshots or GIFs here_
-
-```md
-![Preview](./preview.png)
-```
-
----
 
 ## 🛠️ Technologies Used
 
